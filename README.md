@@ -1,4 +1,4 @@
-Electrum-Oracoin - electrumweight oracoin client
+Electrum-Oracoin - lightweight oracoin client
 =====================================
 
   Licence: GNU GPL v3
