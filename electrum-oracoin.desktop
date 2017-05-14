@@ -1,0 +1,17 @@
+# If you want electrum to appear in a linux app launcher ("start menu"), install this by doing:
+# sudo desktop-file-install electrum-oracoin.desktop
+
+[Desktop Entry]
+Comment=Electrumweight Oracoin Client
+Exec=electrum-oracoin %u
+GenericName[en_US]=Electrum-Oracoin
+GenericName=Electrum-Oracoin
+Icon=electrum-oracoin
+Name[en_US]=Electrum Oracoin Wallet
+Name=Electrum Oracoin Wallet
+Categories=Network;
+StartupNotify=false
+Terminal=false
+Type=Application
+MimeType=x-scheme-handler/oracoin;
+
